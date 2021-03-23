@@ -1,2 +1,2 @@
 # todo-list
-creating a todo list using JAVA and Bootstrap 4
+creating a todo list using JavaScript and Bootstrap 4
